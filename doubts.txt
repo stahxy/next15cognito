@@ -1,0 +1,4 @@
+Now I think i have the server session handled.... but for client? Do i need to make a store rigth ? 
+I think i can do it without a store by using the lib/cognito stuff, or by just asking in the server component if its a session with the method useSession... 
+But.. if im not mistaken would be a good approach to have a store for saving the user? 
+I dont know thats why this txt its called doubts
